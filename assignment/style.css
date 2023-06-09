@@ -25,11 +25,11 @@ body {
 }
 
 li{
+  list-style-type: none;
   color: #ffffff
 }
 
 .FunFacts {
-  list-style-type: none;
   font-family: 'Varela Round', sans-serif;
 }
 
