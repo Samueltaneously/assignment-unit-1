@@ -28,4 +28,4 @@ to see any changes made to code
 sends the code changes to staging area
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin
+git push origin main

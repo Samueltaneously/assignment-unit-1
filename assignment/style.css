@@ -13,8 +13,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100&display=swap');
 @import url(https://fonts.googleapis.com/css?family=Varela+Round);
 
+header {
+  background-color: #0088dd;
+}
 
-h1{
+h1 {
   color: #ffffff
 }
 
@@ -24,7 +27,7 @@ body {
   font-family: 'Geologica', sans-serif;
 }
 
-li{
+li {
   list-style-type: none;
   color: #ffffff
 }
@@ -37,11 +40,12 @@ img {
   border: 7px solid #0088dd;
 }
 
-p{
+p {
   color: #0088dd;
   font-style: italic
 }
 
 footer {
   text-align: center;
+  background-color: white;
 }
